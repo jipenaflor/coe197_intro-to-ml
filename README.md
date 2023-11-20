@@ -1,2 +1,2 @@
 # CoE 197: Introduction to Machine Learning
-Repository of the outputs I made from the COE 197 (Introduction to Machine Learning) course of UP-EEEI last 2022
+A repository of my outputs for the course COE 197 (Introduction to Machine Learning) offered by UP-EEEI last 2022
